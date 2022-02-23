@@ -10,3 +10,4 @@ Coarse Aggregate (component 6) -- quantitative -- kg in a m3 mixture -- Input Va
 Fine Aggregate (component 7) -- quantitative -- kg in a m3 mixture -- Input Variable
 Age -- quantitative -- Day (1~365) -- Input Variable
 Concrete Compressive Strength -- quantitative -- MPa -- Output Variable
+I use few approaches to predict the target variable , for more details please see the .ipynb files
